@@ -50,4 +50,3 @@ if len(age_st) > len(age):
 else:
     print("The list is bigger than the set.")
 #2 teoria
-#3
